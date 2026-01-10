@@ -4,16 +4,6 @@
   🚀 Exploring Web Development | 🖥️ Frontend Enthusiast | 📚 Learning Full-stack web Development
 </p>
 
----
-
-### 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pupiesa&theme=dark&show_icons=true&hide_border=false&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pupiesa&theme=dark&show_icons=true&hide_border=false&layout=compact" height="150" />
-</div>
-
----
 
 ### 🛠️ Tech Stack  
 
