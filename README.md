@@ -33,14 +33,6 @@
 
 ---
 
-### 🏆 Fun Stuff  
-
-- 💡 **Currently Building**: Web apps using React, Next.js & Appwrite  
-- 🔥 **Hobbies**: Coding, Playing Sports, Exercising, and Weightlifting  
-- 🎯 **Goals for 2025**: Master Nextjs & Improve my English Skills  
-
----
-
 
 ### 🎉 Fun GIF  
 
